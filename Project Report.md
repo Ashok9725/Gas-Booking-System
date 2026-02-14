@@ -11,9 +11,13 @@ The Online Gas Booking System is a cutting-edge web-based platform that revoluti
 Key highlights include:
 
 Dual User Roles: Regular users (clients) and administrators.
+
 Initial Allocation: Users receive 12 barrels valid for one year.
+
 Admin Capabilities: Approve/reject requests and broadcast notices.
+
 Core Focus: Adheres to evaluation metrics for modularity, safety, testability, maintainability, and portability.
+
 This project eliminates booking hassles, ensuring a user-centric experience with real-time updates.
 
 🎯 Objectives
@@ -28,10 +32,15 @@ Primary Goals
 ✅ Equip administrators to oversee accounts, manage requests, and post system-wide notices.
 
 Evaluation Metrics
+
 Code: Designed to be modular, safe, testable, maintainable, and portable.
+
 Database: Leverages Firebase for real-time data storage.
+
 Logging: Implements JavaScript logging for all system actions.
+
 Deployment: Hosted on Firebase for scalable cloud solutions.
+
 🛠️ Technologies and Tools
 Category
 
@@ -192,36 +201,6 @@ Maintainable: Commented, modular code.
 
 Portable: No platform dependencies.
 
-🚧 Challenges and Solutions
-
-Challenge
-
-Solution
-
-Firebase Module Errors
-
-Switched to v8 SDK for compatibility.
-
-EmailJS 422 Errors
-
-Added emailjs.init() and recipient validation.
-
-UI Overlaps
-
-Applied CSS padding and z-index.
-
-Booking Not Triggering
-
-Changed event to 'click' from 'submit'.
-
-Permissions Issues
-
-Adjusted Firestore rules for public notice reads.
-
-Hosting Rewrites
-
-Disabled for local JS loading.
-
 🚀 Deployment
 
 Platform: Firebase Hosting (free, integrated with Auth/Firestore).
@@ -251,3 +230,4 @@ The Online Gas Booking System delivers a modern, efficient alternative to outdat
 
 Development Timeline: ~2-3 weeks with refinements.
 Code Repository: GitHub Link
+
