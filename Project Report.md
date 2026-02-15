@@ -229,5 +229,7 @@ Access: Live at Firebase URL (https://gas-booking-system-76446.web.app/).
 The Online Gas Booking System delivers a modern, efficient alternative to outdated booking methods, fully aligning with project requirements. Its modular architecture and Firebase integration ensure scalability and ease of maintenance. Showcasing expertise in web dev, real-time databases, and UX design, it's primed for deployment and growth.
 
 Development Timeline: ~2-3 weeks with refinements.
-Code Repository: GitHub Link
+
+Code Repository: https://github.com/Ashok9725/Gas-Booking-System
+
 
